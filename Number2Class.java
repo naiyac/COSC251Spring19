@@ -1,5 +1,5 @@
 package Number2;
-
+//Assignment 1 Exercise 2 for Intro to Java class (COSC 251  Sp 19 Sem)
 import java.util.Scanner;
 
 public class Number2Class {
